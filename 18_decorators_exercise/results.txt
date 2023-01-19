@@ -1,0 +1,6 @@
+you called func(4, 4, 4)
+it returned 6
+you called sum_func(1, 4)
+it returned 5
+Function add was called. Result: 4
+Function mult was called. Result: 24
